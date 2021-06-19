@@ -3,9 +3,9 @@ using System.Threading;
 using System.Windows.Forms;
 using static Sens_Amethyst_Recoil.Variables;
 
-namespace Sens_Amethyst_Recoil
+namespace Amethyst
 {
-    class Recoil
+    class oil
     {
         private static bool IsKeyDown(Keys key)
         { return 0 != (DLLImports.GetAsyncKeyState((int)key) & 0x8000); }
