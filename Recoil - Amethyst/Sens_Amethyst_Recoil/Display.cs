@@ -21,7 +21,7 @@ namespace Sens_Amethyst_Recoil
             Console.WriteLine(@"  / ___ \| | | | | |  __/ |_| | | | |_| \__ \ |_ ");
             Console.WriteLine(@" /_/   \_\_| |_| |_|\___|\__|_| |_|\__, |___/\__|");
             Console.WriteLine(@"                                   |___/         ");
-            Console.WriteLine(@"  Version: 1.0 | Made by: Sen | Release: Public  ");
+            Console.WriteLine(@"  Version: 1.1 | Made by: wildbuffalo | Release: Public  ");
             Console.WriteLine(" ------------------------------------------------");
             Console.ResetColor();
             Console.WriteLine(" CTRL + NumberPad:");
