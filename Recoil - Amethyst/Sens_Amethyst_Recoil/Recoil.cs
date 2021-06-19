@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 using System.Windows.Forms;
-using static Sens_Amethyst_Recoil.Variables;
+using static Amethyst.Variables;
 
 namespace Amethyst
 {
