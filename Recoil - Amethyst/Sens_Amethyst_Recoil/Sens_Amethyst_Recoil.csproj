@@ -51,7 +51,7 @@
     <Compile Include="DLLImports.cs" />
     <Compile Include="Hotkeys.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Recoil.cs" />
+    <Compile Include="oil.cs" />
     <Compile Include="Variables.cs" />
     <Compile Include="Weapons.cs" />
   </ItemGroup>
