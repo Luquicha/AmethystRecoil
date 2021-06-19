@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E2CC83CC-0A77-47D1-93F9-600004CE0139}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Sens_Amethyst_Recoil</RootNamespace>
-    <AssemblyName>Sens_Amethyst_Recoil</AssemblyName>
+    <RootNamespace>Amethyst</RootNamespace>
+    <AssemblyName>Amethyst</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
